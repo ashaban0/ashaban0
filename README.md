@@ -48,7 +48,7 @@ My code for the Kaggle competition that predicts the flooding probability in a c
 -->
 ## 📫 Contact
 - Email: arshaban54@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ashaban0)
+- LinkedIn: [in/ashaban0](https://www.linkedin.com/in/ashaban0)
 
 <!--
 **ashaban0/ashaban0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
