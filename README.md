@@ -2,16 +2,16 @@
 
 I'm a PhD candidate in physics at NC State University, passionate about applying data science, machine learning, and deep learning to scientific research, particularly in the field of astrophysics.
 
-## 🛠 Skills
-- Python
-- MatLab
-- Java
-- Mathematica
+## 🛠 Technical Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📈 GitHub Stats
-<div align="center">
 ![Ahmed Shaban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashaban0&show_icons=true&theme=radical)
-</div>  
 <!--
 ## 🚀 Projects
 ### Project 1: musetools
