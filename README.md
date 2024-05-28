@@ -9,7 +9,7 @@ I'm a PhD candidate in physics at NC State University, passionate about applying
 - Mathematica
 
 ## 📈 GitHub Stats
-![Ahmed Shaban's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Ahmed Shaban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashaban0&show_icons=true&theme=radical)
 
 ## 🚀 Projects
 ### Project 1: musetools
