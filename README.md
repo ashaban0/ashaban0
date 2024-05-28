@@ -9,7 +9,7 @@ I'm a PhD candidate in physics at NC State University, passionate about applying
 - Mathematica
 
 ## 📈 GitHub Stats
-<div style="display: flex; justify-content: center;">
+<div align="center">
 ![Ahmed Shaban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashaban0&show_icons=true&theme=radical)
 </div>  
 <!--
