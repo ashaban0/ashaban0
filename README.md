@@ -34,9 +34,10 @@ I'm a PhD candidate in physics at NC State University, passionate about applying
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
+<!--
 ## 📈 GitHub Stats
 ![Ahmed Shaban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashaban0&show_icons=true&theme=radical)
-<!--
+
 ## 🚀 Projects
 ### Project 1: musetools
 A Python package for reading and analyzing 3D integral field unit (IFU) spectroscopic data-cubes from the Multi Unit Spectroscopic Explorer (MUSE) mounted on the Very Large Telescope (VLT) in Chile. [Link to project](https://github.com/rongmon/musetools)
