@@ -10,14 +10,14 @@ I'm a PhD candidate in physics at NC State University, passionate about applying
 
 ## 📈 GitHub Stats
 ![Ahmed Shaban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashaban0&show_icons=true&theme=radical)
-
+<!--
 ## 🚀 Projects
 ### Project 1: musetools
 A Python package for reading and analyzing 3D integral field unit (IFU) spectroscopic data-cubes from the Multi Unit Spectroscopic Explorer (MUSE) mounted on the Very Large Telescope (VLT) in Chile. [Link to project](https://github.com/rongmon/musetools)
 
 ### Project 2: Flood Prediction
 My code for the Kaggle competition that predicts the flooding probability in a certain region based on various factors. I ppplied linear, Ridge, and XGBoost regression in this competition to predict regional flooding probabilities based on environmental factors. [Link to project](https://github.com/ashaban0/Regression_FloodPrediction)
-
+-->
 ## 📫 Contact
 - Email: arshaban54@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ashaban0)
