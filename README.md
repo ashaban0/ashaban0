@@ -1,6 +1,6 @@
 ## Hi there, I'm Ahmed Shaban 👋
 
-I'm a PhD candidate in physics at NC State University, passionate about applying data science, machine learning, and deep learning to scientific research, particularly in the field of astrophysics.
+I'm a postdoctoral research scholar in physics at NC State University, passionate about applying data science, machine learning, and deep learning to scientific research, particularly in the field of astrophysics.
 
 <!-- 
 ## 🛠 Technical Skills
